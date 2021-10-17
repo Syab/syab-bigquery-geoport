@@ -3,7 +3,7 @@ from google.api_core.exceptions import NotFound
 from google.cloud import bigquery
 
 # TODO For user to change to your account project, or create a project in your account with the name below
-# gcp_project = 'gbq-ports'
+# gcp_project ='gbq-ports-project'
 
 client = bigquery.Client(project=gcp_project)
 

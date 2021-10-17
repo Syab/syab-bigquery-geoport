@@ -2,6 +2,8 @@
 
 Result dataset has been shared with data_members@foodpanda.com
 
+![shared_dataset](https://user-images.githubusercontent.com/14856777/137642767-794fdbc1-1c94-4d2d-86b6-af4254bee083.png)
+
 To run this in your environment:
 ### Prerquisites
 1. Python 3 and latest version of pip installed
