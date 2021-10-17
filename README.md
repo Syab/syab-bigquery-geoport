@@ -60,7 +60,7 @@ Final Results :
     To configure google credentials on your local machine:
     1. In your GCP account console, go to IAM > Service Accounts > Create Service Account
     2. Type in a name for your service role
-   
+![create_credentials](https://user-images.githubusercontent.com/14856777/137641795-bc2250b1-75ba-47d0-9851-890184950dac.png)
     3. 
 
-     ![create_key](image/create_key.png)
+   
