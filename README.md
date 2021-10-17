@@ -32,7 +32,8 @@ python geo_intl_ports.py
 
 ## Outputs
 Final Results :
-![Screenshot 2021-10-18 at 3 24 35 AM](https://user-images.githubusercontent.com/14856777/137642170-9319acbb-e60e-4c93-86ee-3293d077ec15.png)
+
+![final_table_results](https://user-images.githubusercontent.com/14856777/137642165-e652251b-f9a8-426f-84bf-b2a4092e7783.png)
 
 - There are 7 outputs from running the file
     1. Output 1 : Prints the dataset created in the project
