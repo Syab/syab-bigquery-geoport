@@ -59,8 +59,15 @@ Final Results :
 
     To configure google credentials on your local machine:
     1. In your GCP account console, go to IAM > Service Accounts > Create Service Account
-    2. Type in a name for your service role
-![create_credentials](https://user-images.githubusercontent.com/14856777/137641795-bc2250b1-75ba-47d0-9851-890184950dac.png)
-    3. 
 
-   
+    2. Type in a name for your service role. Click Create and Continue.
+    ![create_credentials](https://user-images.githubusercontent.com/14856777/137641795-bc2250b1-75ba-47d0-9851-890184950dac.png)
+
+
+    3. Select BigQuery User
+    4. Grant your account access.
+    5. In your service account dashboard, click on the newly created service account.
+    6. Create a private key.
+    7. Configure path in your local machine.
+    8. source your .bashrc file
+
